@@ -1,0 +1,33 @@
+modLoader = "kotlinforforge"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "cobblebox"
+version = "1.6-neoforge-0.0.0"
+displayName = "Cobblebox"
+authors = "edancheese aka Edancheese"
+description = '''
+A Cobblemon Mysterybox Mod
+'''
+
+[[dependencies.cobblebox]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cobblebox]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[21.1.66,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cobblebox]]
+modId = "cobblemon"
+mandatory = true
+versionRange = "[1.6.0,1.7.0)"
+ordering = "AFTER"
+side = "BOTH"
