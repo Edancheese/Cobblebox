@@ -2,24 +2,24 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "NS": {
+    "N": {
       "item": "minecraft:nether_star"
     },
     "D": {
       "item": "minecraft:diamond"
     },
-    "DB": {
+    "B": {
       "item": "diamond_block"
     },
-    "MB": {
+    "M": {
       "item": "cobblemon:master_ball"
     }
 
   },
   "pattern": [
-    "DMBD",
-    "DNSD",
-    "DDBD"
+    "DMD",
+    "DND",
+    "DBD"
   ],
   "result": {
     "count": 1,

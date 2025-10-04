@@ -2,23 +2,23 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "NS": {
+    "N": {
       "item": "minecraft:nether_star"
     },
     "E": {
       "item": "minecraft:emerald"
     },
-    "EB": {
+    "B": {
       "item": "emerald_block"
     },
-    "LB": {
+    "L": {
       "item": "cobblemon:luxury_ball"
     }
   },
   "pattern": [
-    "ELBE",
-    "ENSE",
-    "EEBE"
+    "ELE",
+    "ENE",
+    "EBE"
   ],
   "result": {
     "count": 1,

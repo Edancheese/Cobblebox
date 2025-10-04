@@ -5,22 +5,22 @@
     "G": {
       "item": "minecraft:gold_ingot"
     },
-    "NS": {
+    "N": {
       "item": "minecraft:nether_star"
     },
-    "GB": {
+    "B": {
       "item": "minecraft:gold_block"
     },
-    "UB": {
+    "U": {
       "item": "cobblemon:ultra_ball"
     }
 
 
   },
   "pattern": [
-    "GUBG",
-    "GNSG",
-    "GGBG"
+    "GUG",
+    "GNG",
+    "GBG"
   ],
   "result": {
     "count": 1,

@@ -2,50 +2,23 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
-    },
-    "NS": {
+    "N": {
       "item": "minecraft:nether_star"
-    },
-    "D": {
-      "item": "minecraft:diamond"
     },
     "I": {
       "item": "minecraft:iron_ingot"
     },
-    "E": {
-      "item": "minecraft:emerald"
-    },
-    "IB": {
+    "B": {
       "item": "minecraft:iron_block"
     },
-    "GB": {
-      "item": "minecraft:gold_block"
-    },
-    "DB": {
-      "item": "diamond_block"
-    },
-    "EB": {
-      "item": "emerald_block"
-    },
-    "PB": {
+    "P": {
       "item": "cobblemon:poke_ball"
-    },
-    "UB": {
-      "item": "cobblemon:ultra_ball"
-    },
-    "MB": {
-      "item": "cobblemon:master_ball"
-    },
-    "LB": {
-      "item": "cobblemon:luxury_ball"
     }
   },
   "pattern": [
-    "IPBI",
-    "INSI",
-    "IIBI"
+    "IPI",
+    "INI",
+    "IBI"
   ],
   "result": {
     "count": 1,
