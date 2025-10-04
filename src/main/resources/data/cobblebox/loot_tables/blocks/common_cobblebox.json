@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "predicate": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "minecraft:silk_touch",
+                          "levels": {
+                            "min": 1
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "name": "cobblebox:common_cobblebox"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pokemon_model[cobblemon:pokemon_item={species:\"cobblemon:bulbasaur\",aspects:[\"\"]}]"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pokemon_model[cobblemon:pokemon_item={species:\"cobblemon:ivysaur\",aspects:[\"\"]}]"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pokemon_model[cobblemon:pokemon_item={species:\"cobblemon:venusaur\",aspects:[\"\"]}]"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "cobblebox:blocks/common_cobblebox"
+}

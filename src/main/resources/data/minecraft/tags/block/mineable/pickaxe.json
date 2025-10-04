@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cobblebox:common_cobblebox",
+    "cobblebox:rare_cobblebox",
+    "cobblebox:ultrarare_cobblebox",
+    "cobblebox:shiny_cobblebox"
+  ]
+}
