@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "NS": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "EB": {
+      "item": "emerald_block"
+    },
+    "LB": {
+      "item": "cobblemon:luxury_ball"
+    }
+  },
+  "pattern": [
+    "ELBE",
+    "ENSE",
+    "EEBE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblebox:shiny_cobblebox"
+  }
+}

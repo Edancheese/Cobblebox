@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cobblebox:block/rare_cobblebox"
+    },
+    "facing=south": {
+      "model": "cobblebox:block/rare_cobblebox",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "cobblebox:block/rare_cobblebox",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "cobblebox:block/rare_cobblebox",
+      "y": 270
+    }
+  }
+}

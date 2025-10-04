@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "NS": {
+      "item": "minecraft:nether_star"
+    },
+    "GB": {
+      "item": "minecraft:gold_block"
+    },
+    "UB": {
+      "item": "cobblemon:ultra_ball"
+    }
+
+
+  },
+  "pattern": [
+    "GUBG",
+    "GNSG",
+    "GGBG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblebox:rare_cobblebox"
+  }
+}

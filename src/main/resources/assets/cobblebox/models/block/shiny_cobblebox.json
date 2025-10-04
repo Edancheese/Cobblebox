@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "cobblebox:block/front_shiny_cobblebox",
+    "east": "cobblebox:block/side_shiny_cobblebox",
+    "south": "cobblebox:block/side_shiny_cobblebox",
+    "west": "cobblebox:block/side_shiny_cobblebox",
+    "down": "cobblebox:block/bottom_shiny_cobblebox",
+    "up": "cobblebox:block/top_shiny_cobblebox",
+    "particle": "cobblebox:block/side_shiny_cobblebox"
+  }
+
+}

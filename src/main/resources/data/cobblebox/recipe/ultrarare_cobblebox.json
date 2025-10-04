@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "NS": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "DB": {
+      "item": "diamond_block"
+    },
+    "MB": {
+      "item": "cobblemon:master_ball"
+    }
+
+  },
+  "pattern": [
+    "DMBD",
+    "DNSD",
+    "DDBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblebox:ultrarare_cobblebox"
+  }
+}

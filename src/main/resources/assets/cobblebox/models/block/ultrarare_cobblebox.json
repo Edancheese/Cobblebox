@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "cobblebox:block/front_ultrarare_cobblebox",
+    "east": "cobblebox:block/leftside_ultrarare_cobblebox",
+    "south": "cobblebox:block/side_ultrarare_cobblebox",
+    "west": "cobblebox:block/rightside_ultrarare_cobblebox",
+    "down": "cobblebox:block/bottom_ultrarare_cobblebox",
+    "up": "cobblebox:block/top_ultrarare_cobblebox",
+    "particle": "cobblebox:block/side_ultrarare_cobblebox"
+  }
+
+}
